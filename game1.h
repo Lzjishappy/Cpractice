@@ -1,4 +1,4 @@
-#define ROW 3
+#define ROW 3//扫雷
 #define COL 3
 void menu();
 void exit1();

@@ -7,3 +7,4 @@ void game();
 void exit();
 void board(char arr[3][3],int row, int col);
 void play(int b[2]);
+//三子棋
